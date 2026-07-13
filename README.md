@@ -5,8 +5,8 @@ Projeto desenvolvido como parte do desafio da DIO para demonstrar o processo de 
 
 Demonstrar um fluxo completo de processamento de dados:
 
-- **Extract:** leitura de um arquivo CSV contendo informações de clientes;
-- **Transform:** geração de mensagens personalizadas para cada cliente;
+- **Extract:** leitura de um arquivo CSV contendo informações de clientes.
+- **Transform:** geração de mensagens personalizadas para cada cliente.
 - **Load:** gravação dos dados processados em um novo arquivo CSV.
 
 ---
