@@ -28,9 +28,8 @@ desafio-etl-python-dio/
 │   └── clientes_processados.csv
 │
 ├── src/
-│   └── etl.py
+│   └── DesafioETL(DIO).ipynb
 │
-├── requirements.txt
 └── README.md
 ```
 
